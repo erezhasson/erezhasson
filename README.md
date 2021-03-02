@@ -1,4 +1,3 @@
-.
 <h1 align="center">Hello World 🌍, I'm Erez</h1>
 <h3 align="center">Junior developer and Computer Science student</h3>
 
