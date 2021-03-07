@@ -4,10 +4,10 @@
 
 
 🔭 My Projects:
-- [x] Checkers Game.
-- [x] Die! Fly. 
-- [ ] DTL
-- [ ] WZLobby 
+- [x] Checkers Game For Windows Desktop.
+- [x] Die! Fly - 3D Game Using Unity Engine. 
+- [ ] DTL - 3D Development Using Unity Engine.
+- [ ] WZLobby - Python-Written Discord Bot via Discord.py API.
 
 
 - 🎓 Currently pursuing B.Sc in Computer Science (3rd Year Student).
