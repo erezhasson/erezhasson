@@ -4,9 +4,10 @@
 
 
 🔭 My Projects:
-- [x] Checkers Game For Windows Desktop.
-- [x] Die! Fly - 3D Game Using Unity Engine. 
-- [ ] DTL - 3D Development Using Unity Engine.
+- [x] Checkers Game for Windows Desktop.
+- [x] Die! Fly - 3D Game using Unity Engine. 
+- [ ] DTL - 3D Development using Unity Engine.
+- [ ] RSE - Rizpa Stock Exchange System developed in Java.
 - [ ] WZLobby - Python-Written Discord Bot via Discord.py API.
 
 
