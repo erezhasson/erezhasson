@@ -25,7 +25,7 @@ Highly motivated and always looking forward to learn and investigate new technol
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-007ACC?style=flat-square&logo=react&logoColor=white)
-![ReactJS](https://img.shields.io/badge/C-C++-007ACC?style=flat-square&logo=c&logoColor=white)
+![C/C++](https://img.shields.io/badge/C-C++-007ACC?style=flat-square&logo=c&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 ### Contact me:
