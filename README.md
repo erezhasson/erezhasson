@@ -22,7 +22,6 @@ Highly motivated and always looking forward to learn and investigate new technol
 ### Languages and Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
@@ -32,8 +31,8 @@ Highly motivated and always looking forward to learn and investigate new technol
 
 - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](In Development)
 - Email: [![Email](https://img.shields.io/badge/erezhasson4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erezhasson4@gmail.com)
-- LinkedIn
+- LinkedIn:[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/erezhasson/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erezhasson4@gmail.com)
 
 ### My GitHub Stats
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=erezhasson&show_icons=true)
+![Erez's github stats](https://github-readme-stats.vercel.app/api?username=erezhasson&show_icons=true)
