@@ -1,4 +1,7 @@
-![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
 ## Hey 👋, I'm Erez.
 
@@ -37,3 +40,7 @@ Highly motivated and always looking forward to learn and investigate new technol
 ### My GitHub Stats
 
 ![Erez's github stats](https://github-readme-stats.vercel.app/api?username=erezhasson&show_icons=true)
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
