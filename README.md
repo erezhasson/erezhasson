@@ -37,4 +37,3 @@ Highly motivated and always looking forward to learn and investigate new technol
 ### My GitHub Stats
 
 ![Erez's github stats](https://github-readme-stats.vercel.app/api?username=erezhasson&show_icons=true)
-[![Erez's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erezhasson&theme=blue-green)](https://github.com/erezhasson/github-readme-stats)
