@@ -29,7 +29,7 @@ Highly motivated and always looking forward to learn and investigate new technol
 
 ### Contact me:
 
-- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](In Development)
+- Personal website: [![website](https://img.shields.io/badge/'in development'-3693F3?style=flat-square&logo=icloud&logoColor=white)]()
 - Email: [![Email](https://img.shields.io/badge/erezhasson4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erezhasson4@gmail.com)
 - LinkedIn:[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/erezhasson/-000080?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erezhasson/)
 
