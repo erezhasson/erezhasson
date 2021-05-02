@@ -2,7 +2,7 @@
 
 ## Hey 👋, I'm Albert Abdilim
 
-Hi there, I'm **Albert Abdilim**, a **medical student**.
+Hi there, I'm **Erez Hasson**, a **Computer Science student**.
 
 I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
 
