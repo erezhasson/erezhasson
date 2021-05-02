@@ -3,8 +3,6 @@
  <h2 align="center">Profile</h2>
 </p>
 
-## Hey 👋, I'm Erez.
-
 Hi there, I'm **Erez Hasson**, a **Computer Science student**.
 
 Highly motivated and always looking forward to learn and investigate new technologies to keep being modern and up to the industry standards.
