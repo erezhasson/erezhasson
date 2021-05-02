@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-Hi there, I'm **Erez Hasson**, a **Computer Science student**.
+Hi there 👋, I'm **Erez Hasson**, a **Computer Science student**.
 
 Highly motivated and always looking forward to learn and investigate new technologies to keep being modern and up to the industry standards.
 
