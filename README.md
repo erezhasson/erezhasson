@@ -24,14 +24,15 @@ Highly motivated and always looking forward to learn and investigate new technol
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/react-007ACC?style=flat-square&logo=react&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-007ACC?style=flat-square&logo=react&logoColor=white)
+![ReactJS](https://img.shields.io/badge/"C/C++/C#"-007ACC?style=flat-square&logo=c&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 ### Contact me:
 
 - Personal website: In Development
 - Email: [![Email](https://img.shields.io/badge/erezhasson4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erezhasson4@gmail.com)
-- LinkedIn:[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/erezhasson/-000080?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erezhasson/)
+- LinkedIn:[![LinkedIn](https://img.shields.io/badge/@erezhasson-000080?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erezhasson/)
 
 ### My GitHub Stats
 
