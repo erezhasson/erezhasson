@@ -12,8 +12,8 @@ Highly motivated and always looking forward to learn and investigate new technol
 🔭 My Projects:
 - [x] Checkers Game for Windows Desktop.
 - [x] Die! Fly - 3D Game using Unity Engine. 
+- [x] RSE - Rizpa Stock Exchange System developed in Java.
 - [ ] DTL - 3D Development using Unity Engine.
-- [ ] RSE - Rizpa Stock Exchange System developed in Java.
 - [ ] WZLobby - Python-Written Discord Bot via Discord.py API.
 
 
