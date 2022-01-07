@@ -15,8 +15,6 @@ Highly motivated and always looking forward to learn and investigate new technol
 - [x] RSE - Rizpa Stock Exchange System developed in Java.
 - [x] SmartSend - Innovative community-based delivery system.
 - [ ] DTL - 3D Development using Unity Engine.
-- [ ] WZLobby - Python-Written Discord Bot via Discord.py API.
-
 
 - 🎓 Currently pursuing B.Sc in Computer Science (3rd Year Student).
 - 💻 All of my projects are available here, please feel free to take a look.
