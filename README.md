@@ -1,11 +1,9 @@
-<p align="center">
- <img width="15%" src="https://i.ibb.co/gM38Dkp/New-2.png" align="center" alt="Github Readme Photo" />
- <h2 align="center">Profile</h2>
-</p>
+![coding-freak](https://user-images.githubusercontent.com/69516798/148690289-46a4f8dc-6022-487c-bbdf-059e3dc7de6d.gif)
+
 
 Hi there 👋, I'm **Erez Hasson**, a **Computer Science student**.
 
-Highly motivated and always looking forward to learn and investigate new technologies to keep being modern and up to the industry standards.
+Highly motivated and always looking forward to learn and investigate new technologies to keep being modern and up to the industry standards.  
 
 ### Talking about Personal Stuffs:
 
@@ -18,6 +16,7 @@ Highly motivated and always looking forward to learn and investigate new technol
 
 - 🎓 Currently pursuing B.Sc in Computer Science (3rd Year Student).
 - 💻 All of my projects are available here, please feel free to take a look.
+- 👯 Open to collaborate on projects  
 
 ### Languages and Tools:
 
