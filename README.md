@@ -12,7 +12,6 @@ Highly motivated and always looking forward to learn and investigate new technol
 - 🎓 Currently pursuing B.Sc in Computer Science (3rd Year Student).
 - 💻 All of my projects are available here, please feel free to take a look.
 - 👯 Open to collaborate on projects  
-<br/>
 
 ## 🔭 My Projects:
 #### Academic Projects
