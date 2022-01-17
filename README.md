@@ -1,17 +1,16 @@
 ![coding-freak](https://user-images.githubusercontent.com/69516798/148690289-46a4f8dc-6022-487c-bbdf-059e3dc7de6d.gif)
 
 
-### Hi there 👋, I'm **Erez Hasson**, a **junior developer & Computer Science student**.
+### Hi, I'm Erez 👋  
+### junior developer & Computer Science student.  
 
-Highly motivated and always looking forward to learn and investigate new technologies to keep being modern and up to the industry standards.   
+Experienced in software & web developing, I'm always looking forward to learn and investigate new technologies to keep being modern and up to the industry needs.
 
->"The way to get started is to quit talking and begin doing."  
+<br/>
 
-*-Walt Disney*
+> #### *❞  The way to get started is to quit talking and begin doing. ❝*
 
-- 🎓 Currently pursuing B.Sc in Computer Science (3rd Year Student).
-- 💻 All of my projects are available here, please feel free to take a look.
-- 👯 Open to collaborate on projects  
+*-Walt Disney*  
 
 ## 🔭 My Projects:
 #### Academic Projects
@@ -25,6 +24,9 @@ Highly motivated and always looking forward to learn and investigate new technol
 - [x] Resume Push Button - Get my CV in exclusive push button.
 - [x] Egg Boiler Timer - Boil eggs perfectly everytime.
 - [ ] DTL - 3D Development using Unity Engine.
+
+- 💻 All of my projects are available here, please feel free to take a look.
+- 👯 Open to collaborate on projects  
 
 ## :wrench: Languages and Tools:
 
