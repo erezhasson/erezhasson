@@ -6,7 +6,6 @@
 
 Experienced in software & web developing, I'm always looking forward to learn and investigate new technologies to keep being modern and up to the industry needs.
 
-<br/>
 
 > #### *❞  The way to get started is to quit talking and begin doing. ❝*
 
@@ -18,12 +17,13 @@ Experienced in software & web developing, I'm always looking forward to learn an
 - [x] Die! Fly - 3D Game using Unity Engine. 
 - [x] RSE - Rizpa Stock Exchange System developed in Java.
 - [x] SmartSend - Innovative community-based delivery system.
-&nbsp;
 
 #### Personal Projects
 - [x] Resume Push Button - Get my CV in exclusive push button.
 - [x] Egg Boiler Timer - Boil eggs perfectly everytime.
 - [ ] DTL - 3D Development using Unity Engine.
+
+<br/>
 
 - 💻 All of my projects are available here, please feel free to take a look.
 - 👯 Open to collaborate on projects  
