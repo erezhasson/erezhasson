@@ -21,6 +21,7 @@ Experienced in software & web developing, I'm always looking forward to learn an
 #### Personal Projects
 - [x] Resume Push Button - Get my CV in exclusive push button.
 - [x] Egg Boiler Timer - Boil eggs perfectly everytime.
+- [ ] Genius Music Player - Music player using Genius API.
 - [ ] DTL - 3D Development using Unity Engine.
 
 <br/>
