@@ -2,7 +2,7 @@
 
 
 ### Hi, I'm Erez 👋  
-### junior developer & Computer Science student.  
+### Web Developer at <a href="https://www.compie.co.il/" target="_blank">Compie Technologies</a>
 
 Experienced in software & web developing, I'm always looking forward to learn and investigate new technologies to keep being modern and up to the industry needs.
 
