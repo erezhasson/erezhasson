@@ -2,7 +2,7 @@
 
 
 ### Hi, I'm Erez 👋  
-### Web Developer at <a href="https://www.compie.co.il/" target="_blank">Compie Technologies</a>
+### Web Developer at <a href="https://www.unity.com/" target="_blank">Unity Technologies</a>
 
 Experienced in software & web developing, I'm always looking forward to learn and investigate new technologies to keep being modern and up to the industry needs.
 
